@@ -7,6 +7,11 @@ I’m passionate about **programming** and currently diving deep into **web deve
 - Learning **React**, **Laravel**, and **Mongo db**.  
 - Building projects to enhance my portfolio.
 
+## 🛠 Skills
+- **Languages:** JavaScript, HTML, CSS, Python, PHP
+- **Frameworks:** React, Redux, Laravel, Bootstrap
+- **Tools:** Git, GitHub, VS Code
+
 ### 💞️ Collaboration  
 I'm open to collaborating on **web development projects**, **open-source contributions**, or anything that lets me learn and grow with other developers!
 
