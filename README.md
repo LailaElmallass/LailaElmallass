@@ -18,6 +18,7 @@ I'm open to collaborating on **web development projects**, **open-source contrib
 ### 📫 How to Reach Me  
 - **Email:** Laila.elmallass.2018@gmail.com  
 - **GitHub:** https://github.com/LailaElmallass
+- **LinkedIn:**  www.linkedin.com/in/lailaelmallass 
 
 ### ⚡ Fun Fact  
 When I’m not coding, you’ll find me exploring nature, drawing, or experimenting with embroidery art! 🎨🌿
