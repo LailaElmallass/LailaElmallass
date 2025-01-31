@@ -1,24 +1,13 @@
-<h1 align="center">
+
+<h1 align="center" style="font-family: 'Comic Sans MS', cursive, sans-serif; font-size: 22px;">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   Welcome to my GitHub Profile! 💖
 </h1>
 
+
 <p align="center" style="font-family: 'Dancing Script', cursive; font-size: 26px;">
   🌸 Passionate Full-Stack Developer from Morocco 🇲🇦
 </p>
-
-
-
----
-
-### 🚀 My GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=highcontrast)
-
----
 
 
 ### 👀 About Me  
