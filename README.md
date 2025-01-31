@@ -1,9 +1,11 @@
-
-<h1 align="center" style="font-family: 'Comic Sans MS', cursive, sans-serif; font-size: 22px;">
+<h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  Welcome to my GitHub Profile! 💖
+  <span style="font-family: 'Pacifico', cursive; color: #ff69b4;">Welcome to my GitHub Profile! 💖</span>
 </h1>
 
+🌸・゜゜・ 𖥸 ・゜゜・🌸  
+✨ **Welcome to my World of Code & Creativity!** ✨  
+🌸・゜゜・ 𖥸 ・゜゜・🌸  
 
 <p align="center" style="font-family: 'Dancing Script', cursive; font-size: 26px;">
   🌸 Passionate Full-Stack Developer from Morocco 🇲🇦
