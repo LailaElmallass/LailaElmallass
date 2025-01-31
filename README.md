@@ -39,11 +39,14 @@
 ### 📊 GitHub Stats:
 
 <p align="center">
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LailaElmallass&layout=compact&langs_count=8&theme=tokyonight)
-
+  
+  
   <img src="https://github-readme-stats.vercel.app/api?username=LailaElmallass&show_icons=true&theme=radical" />
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LailaElmallass&theme=radical" />
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LailaElmallass&layout=compact&langs_count=8&theme=tokyonight)
+
 </p>
 
 ---
