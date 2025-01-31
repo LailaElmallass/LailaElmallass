@@ -1,39 +1,39 @@
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  <span style="font-family: 'Pacifico', cursive; color: #ff69b4;">Welcome to my GitHub Profile! 💖</span>
-</h1>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=30&color=FF69B4&center=true&vCenter=true&width=600&height=60&lines=✨+Bienvenue+sur+mon+GitHub!+✨;💖+Développeuse+Full-Stack+💖;💻+Passionnée+par+le+Code!+💻)
 
+<h1 align="center"> 🌸 Bienvenue sur mon GitHub! 🌸</h1>
 
-<p align="center" style="font-family: 'Dancing Script', cursive; font-size: 26px;">
-  🌸 Passionate Full-Stack Developer from Morocco 🇲🇦
+<p align="center">
+  <img src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif" width="50"/>
+  <strong>Développeuse Full-Stack | Passionnée de Technologie & UI/UX Design 💖</strong>
+  <img src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif" width="50"/>
 </p>
 
+🎀 **À propos de moi** 🎀  
+✨ Je suis étudiante en développement web full-stack.  
+💖 J'adore React, Node.js, et la création d'interfaces interactives.  
+🎨 Passionnée par le design et les couleurs pastel !  
+🌟 Toujours en train d'apprendre de nouvelles technologies.
 
-### 👀 About Me  
-I’m passionate about **programming** and currently diving deep into **web development**. I enjoy creating dynamic, user-friendly websites and applications, and I'm constantly exploring new tools and technologies to grow as a **full-stack developer**.
+🛠️ **Technologies & Outils**  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,laravel,nodejs,mongodb,git,github" />
+</p>
 
-### 🌱 Current Focus  
-- Learning **React**, **Laravel**, and **Mongo db**.  
-- Building projects to enhance my portfolio.
+📊 **Stats GitHub**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="400px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TON_USERNAME&theme=tokyonight" width="400px"/>
+</p>
 
-## 🛠 Skills
-- **Languages:** JavaScript, HTML, CSS, Python, PHP
-- **Frameworks:** React, Redux, Laravel, Bootstrap
-- **Tools:** Git, GitHub, VS Code
-
-### 💞️ Collaboration  
-I'm open to collaborating on **web development projects**, **open-source contributions**, or anything that lets me learn and grow with other developers!
-
-### 📫 How to Reach Me  
-- **Email:** Laila.elmallass.2018@gmail.com  
-- **GitHub:** https://github.com/LailaElmallass
-- **LinkedIn:**  www.linkedin.com/in/lailaelmallass 
-
-### ⚡ Fun Fact  
-When I’m not coding, you’ll find me exploring nature, drawing, or experimenting with embroidery art! 🎨🌿
-
-
-<!---
-LailaElmallass/LailaElmallass is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌐 **Me Contacter** 🌐  
+<p align="center">
+  <a href="https://linkedin.com/in/TON_PROFIL" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-💼-ff69b4?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:ton.email@example.com">
+    <img src="https://img.shields.io/badge/Email-📩-ff69b4?style=for-the-badge&logo=gmail"/>
+  </a>
+  <a href="https://github.com/TON_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-🌸-ff69b4?style=for-the-badge&logo=github"/>
+  </a>
+</p>
