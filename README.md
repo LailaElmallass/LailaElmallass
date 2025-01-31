@@ -6,6 +6,10 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=30&color=FF69B4&center=true&vCenter=true&width=500&height=50&lines=Hi,+I'm+Laila!;A+Full-Stack+Developer+from+Morocco!;Passionate+about+Web+Development!" />
 </p>
+---
+![Profile Views](https://komarev.com/ghpvc/?username=LailaElmallass&color=ff69b4)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=LailaElmallass&left_color=ff69b4&right_color=purple)
+
 
 ---
 
@@ -19,9 +23,9 @@
 ---
 
 ### 🌐 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/lailaelmallass)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23FF69B4.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/Email-%23D44638.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
+[![Email](https://img.shields.io/badge/Email-%23D44638.svg?style=for-the-badge&logo=gmail&logoColor=white)](Laila.elmallass.2018@gmail.com)
 
 ---
 
@@ -31,7 +35,9 @@
 </p>
 
 ---
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LailaElmallass&layout=compact&langs_count=8&theme=tokyonight)
 
+---
 ### 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LailaElmallass&show_icons=true&theme=radical" />
