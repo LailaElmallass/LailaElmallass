@@ -1,9 +1,24 @@
-<h1 align="center">Welcome to my GitHub profile! 💖</h1>
-
-<p align="center">
+<h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  <strong> Passionate Full-Stack Developer from Morocco 🇲🇦</strong>
+  Welcome to my GitHub Profile! 💖
+</h1>
+
+<p align="center" style="font-family: 'Dancing Script', cursive; font-size: 26px;">
+  🌸 Passionate Full-Stack Developer from Morocco 🇲🇦
 </p>
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;I+love+React+%26+Laravel!;Let's+build+cool+projects! 🚀)
+
+---
+
+### 🚀 My GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=highcontrast)
+
+---
 
 
 ### 👀 About Me  
