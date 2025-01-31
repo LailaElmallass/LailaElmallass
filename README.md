@@ -1,39 +1,50 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=30&color=FF69B4&center=true&vCenter=true&width=600&height=60&lines=✨+Bienvenue+sur+mon+GitHub!+✨;💖+Développeuse+Full-Stack+💖;💻+Passionnée+par+le+Code!+💻)
 
-<h1 align="center"> 🌸 Bienvenue sur mon GitHub! 🌸</h1>
+<h1 align="center"> 🌸 ✨ Welcome to My GitHub Profile! ✨ 🌸</h1>
+
+
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif" width="50"/>
-  <strong>Développeuse Full-Stack </strong>
-  <img src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif" width="50"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=30&color=FF69B4&center=true&vCenter=true&width=500&height=50&lines=Hi,+I'm+Laila!;A+Full-Stack+Developer+from+Morocco!;Passionate+about+Web+Development!" />
 </p>
 
-🎀 **À propos de moi** 🎀  
-✨ Je suis étudiante en développement web full-stack.  
-💖 J'adore React, Node.js, et la création d'interfaces interactives.  
-🎨 Passionnée par le design et les couleurs pastel !  
-🌟 Toujours en train d'apprendre de nouvelles technologies.
+---
 
-🛠️ **Technologies & Outils**  
+### 🌸 About Me:
+- 🎓 **Digital Development Student** at the Institute of Applied Technology, Ait Melloul.
+- 💖 Passionate about **Web Development & UX/UI Design**.
+- 🌈 Love working with **React, Laravel, and Full-Stack Applications**.
+- 🌍 Based in **Agadir, Morocco**.
+- 🌟 Open to **exciting projects & collaborations**.
+
+---
+
+### 🌐 Connect with Me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF69B4.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)
+[![Email](https://img.shields.io/badge/Email-%23D44638.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
+
+---
+
+### 🛠️ Languages & Tools:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,laravel,nodejs,mongodb,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,laravel,php,mysql,mongodb,bootstrap,postman,figma" />
 </p>
 
-📊 **Stats GitHub**
+---
+
+### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="400px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TON_USERNAME&theme=tokyonight" width="400px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" />
 </p>
 
-🌐 **Me Contacter** 🌐  
-<p align="center">
-  <a href="https://linkedin.com/in/TON_PROFIL" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-💼-ff69b4?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="mailto:ton.email@example.com">
-    <img src="https://img.shields.io/badge/Email-📩-ff69b4?style=for-the-badge&logo=gmail"/>
-  </a>
-  <a href="https://github.com/TON_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-🌸-ff69b4?style=for-the-badge&logo=github"/>
-  </a>
-</p>
+---
+
+### 🌟 Fun Fact:
+🌸 I love **creating beautiful, user-friendly interfaces**, and I'm always exploring new design trends to make my projects shine! ✨
+
+---
+
+✨ **Thank you for visiting my profile!** Feel free to connect and collaborate. Have a wonderful day! ✨
