@@ -7,7 +7,7 @@
   🌸 Passionate Full-Stack Developer from Morocco 🇲🇦
 </p>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;I+love+React+%26+Laravel!;Let's+build+cool+projects! 🚀)
+
 
 ---
 
