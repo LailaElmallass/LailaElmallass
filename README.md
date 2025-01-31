@@ -7,10 +7,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=30&color=FF69B4&center=true&vCenter=true&width=500&height=50&lines=Hi,+I'm+Laila!;A+Full-Stack+Developer+from+Morocco!;Passionate+about+Web+Development!" />
 </p>
 ---
-<p align="center">
+<!-- <p align="center">
   [![Profile Views](https://komarev.com/ghpvc/?username=LailaElmallass&color=ff69b4)]
   [![Visitors](https://visitor-badge.glitch.me/badge?page_id=LailaElmallass&left_color=ff69b4&right_color=purple)}
-</p>
+</p> -->
 
 ---
 
@@ -36,11 +36,9 @@
 </p>
 
 ---
-<p align="center">
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LailaElmallass&layout=compact&langs_count=8&theme=tokyonight)
-</p>
----
 ### 📊 GitHub Stats:
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LailaElmallass&layout=compact&langs_count=8&theme=tokyonight)
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LailaElmallass&show_icons=true&theme=radical" />
   <br>
