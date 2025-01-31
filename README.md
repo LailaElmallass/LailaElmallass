@@ -1,4 +1,3 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=30&color=FF69B4&center=true&vCenter=true&width=600&height=60&lines=✨+Bienvenue+sur+mon+GitHub!+✨;💖+Développeuse+Full-Stack+💖;💻+Passionnée+par+le+Code!+💻)
 
 <h1 align="center"> 🌸 ✨ Welcome to My GitHub Profile! ✨ 🌸</h1>
 
