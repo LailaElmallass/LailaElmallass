@@ -17,7 +17,7 @@
 ### 🌸 About Me:
 - 🎓 **Digital Development Student** at the Institute of Applied Technology, Ait Melloul.
 - 💖 Passionate about **Web Development & UX/UI Design**.
-- 🌈 Love working with **React, Laravel, and Full-Stack Applications**.
+- ✨ Love working with **React, Laravel, and Full-Stack Applications**.
 - 🌍 Based in **Agadir, Morocco**.
 - 🌟 Open to **exciting projects & collaborations**.
 
