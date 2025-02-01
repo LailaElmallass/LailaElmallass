@@ -24,7 +24,7 @@
 ---
 
 ### 🌐 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/lailaelmallass)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([www.linkedin.com/in/lailaelmallass](https://www.linkedin.com/in/laila-elmallass-614295208))
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23FF69B4.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)
 [![Email](https://img.shields.io/badge/Email-%23D44638.svg?style=for-the-badge&logo=gmail&logoColor=white)](Laila.elmallass.2018@gmail.com)
 
