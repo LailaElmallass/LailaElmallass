@@ -24,7 +24,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/laila-elmallass-614295208"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://monportfolio-git-main-lailaelmallass-projects.vercel.app"><img src="https://img.shields.io/badge/Portfolio-%23FF69B4.svg?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="mailto:Laila.elmallass.2018@gmail.com"><img src="https://img.shields.io/badge/Send+a+Letter-%23D44638.svg?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:Laila.elmallass.2018@gmail.com"><img src="https://img.shields.io/badge/GMAIL-%23D44638.svg?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
