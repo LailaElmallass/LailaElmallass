@@ -56,9 +56,7 @@
 
 ### 🌺 A Little Petal of Me:
 🌸 I’m a **digital alchemist**, blending code and design into enchanting experiences. Catch me daydreaming about gradients, animations, and the perfect hover effect! ✨
-<p algn="center">
-  <img src="https://komarev.com/ghpvc/?username=LailaElmallass&color=FF69B4&style=for-the-badge&label=Wanderers+in+My+Garden" alt="Visitor Counter" />
-</p>
+
 ---
 
 ### 💌 Whisper to the Wind:
@@ -66,4 +64,8 @@
   <a href="mailto:Laila.elmallass.2018@gmail.com"><img src="https://img.shields.io/badge/Toss+a+Petal-FF69B4?style=for-the-badge&logo=flutter&logoColor=white" /></a>
 </p>
 ✨ **Thanks for wandering through my garden!** Let’s plant something extraordinary together—reach out and watch the magic bloom. May your day shimmer with joy! ✨
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=LailaElmallass&color=FF69B4&style=for-the-badge&label=Wanderers+in+My+Garden" alt="Visitor Counter" />
+</p>
 
