@@ -7,9 +7,7 @@
 <p align="center">
   <a href="https://monportfolio-git-main-lailaelmallass-projects.vercel.app"><img src="https://img.shields.io/badge/Step+Into+My+World-FF69B4?style=for-the-badge&logo=starship&logoColor=white" /></a>
 </p>
-<p algn="center">
-  <img src="https://komarev.com/ghpvc/?username=LailaElmallass&color=FF69B4&style=for-the-badge&label=Wanderers+in+My+Garden" alt="Visitor Counter" />
-</p>
+
 ---
 
 ### 🌿 Who’s This Code Gardener?
@@ -58,7 +56,9 @@
 
 ### 🌺 A Little Petal of Me:
 🌸 I’m a **digital alchemist**, blending code and design into enchanting experiences. Catch me daydreaming about gradients, animations, and the perfect hover effect! ✨
-
+<p algn="center">
+  <img src="https://komarev.com/ghpvc/?username=LailaElmallass&color=FF69B4&style=for-the-badge&label=Wanderers+in+My+Garden" alt="Visitor Counter" />
+</p>
 ---
 
 ### 💌 Whisper to the Wind:
