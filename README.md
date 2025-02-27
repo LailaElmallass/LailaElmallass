@@ -1,64 +1,72 @@
-<h1 align="center"> 🌸 ✨ Welcome to My GitHub Profile! ✨ 🌸</h1>
+<h1 align="center"> 🌸 ✨ Welcome to Laila’s Code Garden! ✨ 🌸</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=30&color=FF69B4¢er=true&vCenter=true&width=500&height=50&lines=Hi,+I'm+Laila!;A+Full-Stack+Developer+from+Morocco!;Passionate+about+Web+Development!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=32&color=FF69B4¢er=true&vCenter=true&width=550&height=60&lines=Hey,+I’m+Laila!;A+Full-Stack+Dreamer+from+Morocco!;Growing+Code+with+Love+&+Creativity!" />
+</p>
+
+<p align="center">
+  <a href="https://monportfolio-git-main-lailaelmallass-projects.vercel.app"><img src="https://img.shields.io/badge/Step+Into+My+World-FF69B4?style=for-the-badge&logo=starship&logoColor=white" /></a>
 </p>
 
 ---
 
-### 🌸 About Me:
+### 🌿 Who’s This Code Gardener?
 - 🎓 **Digital Development Student** at the Institute of Applied Technology, Ait Melloul.
-- 💖 Passionate about **Web Development & UX/UI Design**.
-- ✨ Love working with **React, Laravel, and Full-Stack Applications**.
-- 🌍 Based in **Agadir, Morocco**.
-- 🌟 Open to **exciting projects & collaborations**.
-- 🎯 **Currently learning**: TypeScript and Next.js to level up my skills!
+- 💖 Obsessed with **Web Development & UX/UI Design**—where code meets beauty!
+- ✨ I nurture projects with **React, Laravel, and Full-Stack Spells**.
+- 🌍 Rooted in **Agadir, Morocco**, with dreams branching worldwide.
+- 🌟 Always planting seeds for **new collabs & epic adventures**.
+- 🎨 **Currently blooming**: Mastering TypeScript and Next.js for extra sparkle!
 
 ---
 
-### 🌐 Connect with Me:
+### 🌸 Let’s Grow Together!
 <p align="center">
   <a href="https://www.linkedin.com/in/laila-elmallass-614295208"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://monportfolio-git-main-lailaelmallass-projects.vercel.app"><img src="https://img.shields.io/badge/Portfolio-%23FF69B4.svg?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="mailto:Laila.elmallass.2018@gmail.com"><img src="https://img.shields.io/badge/Email-%23D44638.svg?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:Laila.elmallass.2018@gmail.com"><img src="https://img.shields.io/badge/Send+a+Letter-%23D44638.svg?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
-### 🛠️ Languages & Tools:
+### 🪴 My Gardening Tools:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,laravel,php,mysql,mongodb,bootstrap,postman,figma,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,laravel,php,mysql,mongodb,bootstrap,postman,figma,tailwind,ts" />
 </p>
+*Added TypeScript (ts) because you’re learning it—remove if you’re not ready to show it off yet!*
 
 ---
 
-### 🌟 My Projects:
-Here are a few things I’ve been working on:
-- **[Portfolio Website](https://monportfolio-git-main-lailaelmallass-projects.vercel.app)**: A showcase of my skills built with React and styled with love.  
-- **[E-Commerce Prototype]**: A full-stack app with Laravel and MySQL—currently in progress!  
-- **[UI Design Collection]**: Check out my [Figma profile](https://www.figma.com/@lailaelmallass) for my latest designs.
+### 🌟 Blossoming Creations:
+- **[Portfolio Haven](https://monportfolio-git-main-lailaelmallass-projects.vercel.app)**: A cozy corner of React and pastel vibes I crafted with love.
+- **[E-Commerce Seedling]**: A full-stack sprout with Laravel and MySQL—still growing!
+- **[Design Bouquet]**: Peek at my [Figma garden](https://www.figma.com/@lailaelmallass) for UI blooms.
 
 ---
 
-### 📊 GitHub Stats:
+### 📜 Scroll of Achievements:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LailaElmallass&layout=compact&langs_count=8&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api?username=LailaElmallass&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LailaElmallass&layout=compact&langs_count=8&theme=gruvbox&border_radius=10" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LailaElmallass&show_icons=true&theme=radical&border_radius=10" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LailaElmallass&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LailaElmallass&theme=radical&border_radius=10" />
   <br>
-  <img src="https://komarev.com/ghpvc/?username=LailaElmallass&color=FF69B4&style=flat-square&label=Profile+Views" alt="Visitor Counter" />
+  <img src="https://komarev.com/ghpvc/?username=LailaElmallass&color=FF69B4&style=for-the-badge&label=Wanderers+in+My+Garden" alt="Visitor Counter" />
 </p>
 
 ---
 
-### 🌸 Fun Fact:
-🌟 I love **creating beautiful, user-friendly interfaces**, and I often get lost in experimenting with gradients and animations to make my projects pop! ✨
+### 🌺 A Little Petal of Me:
+🌸 I’m a **digital alchemist**, blending code and design into enchanting experiences. Catch me daydreaming about gradients, animations, and the perfect hover effect! ✨
 
 ---
 
-### 💌 Leave a Note:
+### 💌 Whisper to the Wind:
 <p align="center">
-  <img src="https://img.shields.io/badge/Say%20Hi!-FF69B4?style=for-the-badge" />
+  <a href="mailto:Laila.elmallass.2018@gmail.com"><img src="https://img.shields.io/badge/Toss+a+Petal-FF69B4?style=for-the-badge&logo=flutter&logoColor=white" /></a>
 </p>
-✨ **Thank you for visiting my profile!** I’d love to hear from you—drop me a message or let’s collab on something amazing. Have a sparkling day! ✨
+✨ **Thanks for wandering through my garden!** Let’s plant something extraordinary together—reach out and watch the magic bloom. May your day shimmer with joy! ✨
+
+<p align="center">
+  <img src="https://media.giphy.com/media/hv5AEBpH3ZyNoRnABG/giphy.gif" width="150" alt="Dancing Flower" />
+</p>
