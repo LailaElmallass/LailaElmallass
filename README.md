@@ -33,7 +33,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,laravel,php,mysql,mongodb,bootstrap,postman,figma,tailwind,ts" />
 </p>
-*Added TypeScript (ts) because you’re learning it—remove if you’re not ready to show it off yet!*
+
 
 ---
 
